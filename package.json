@@ -1,0 +1,28 @@
+{
+	"name": "@sbutzbach07/math-formulas",
+	"version": "1.0.0",
+	"description": "A free package of geometric and trigonometric formulas if you need help with any math equation.",
+	"main": "dist/index.js",
+	"types": "dist/indes.d.ts",
+	"keywords": [
+		"math",
+		"formula",
+		"formulas",
+		"geo",
+		"geometry",
+		"geometric",
+		"trig",
+		"trigonometry",
+		"trigonometric",
+		"func",
+		"function",
+		"functions",
+		"mathformulas",
+		"math-formulas"
+	],
+	"author": "sbutzbach07",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "^4.7.3"
+	}
+}
