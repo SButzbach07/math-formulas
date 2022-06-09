@@ -18,7 +18,7 @@ This will import each section of the package.
 
 ## Extra Math functions (Func)
 
-Since the JavaScript/TypeScript `Math` class does not include the inverse of `sin`, `cos`, and `tan` that return side lengths, I have provided those for accessibility.
+Since the Math class does not include the inverse of `sin`, `cos`, and `tan` that return side lengths, I have provided those for accessibility.
 
 |Function|Equivalent|
 |:-:|:-:|

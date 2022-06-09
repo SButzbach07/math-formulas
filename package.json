@@ -6,6 +6,7 @@
 	"types": "dist/indes.d.ts",
 	"keywords": [
 		"math",
+		"mathematics",
 		"formula",
 		"formulas",
 		"geo",
@@ -15,6 +16,7 @@
 		"trigonometry",
 		"trigonometric",
 		"func",
+		"funcs",
 		"function",
 		"functions",
 		"mathformulas",
