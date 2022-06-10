@@ -4,6 +4,6 @@
 	Scot Butzbach
 */
 
-export * from "./func";
-export * from "./geo";
-export * from "./trig";
+export * as Func from "./func";
+export * as Geo from "./geo";
+export * as Trig from "./trig";
