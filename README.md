@@ -3,6 +3,7 @@
 A free package of geometric and trigonometric formulas if you need help with any math equation.
 
 GitHub Repository: <https://github.com/SButzbach07/math-formulas>
+
 npm Package: <https://www.npmjs.com/package/@sbutzbach07/math-formulas>
 
 ## How to install & use
