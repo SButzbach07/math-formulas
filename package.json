@@ -1,5 +1,6 @@
 {
 	"name": "@sbutzbach07/math-formulas",
+	"type":"module",
 	"version": "1.0.6",
 	"description": "A free package of geometric and trigonometric formulas if you need help with any math equation.",
 	"main": "lib/index.js",
